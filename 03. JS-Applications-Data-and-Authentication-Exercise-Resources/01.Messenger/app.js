@@ -1,5 +1,5 @@
 function attachEvents() {
-    console.log('TODO...');
+    console.log("test");
 }
 
 attachEvents();
